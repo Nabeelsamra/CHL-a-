@@ -1,0 +1,4 @@
+classes = 2
+train = data/train.txt
+names = ./model/obj.names
+backup = /mydrive/YoloV4/backup
