@@ -1,4 +1,4 @@
-# CHL-a-
+# Trash detection -Fyp
 
 
 There are two files for 2 different hardware
